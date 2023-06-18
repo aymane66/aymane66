@@ -28,6 +28,8 @@
 
 - :telescope: I am learning front-end and back-end related technologies.
 
+- 💡 I am currently learning Python.
+
 <!--- - :seedling: I.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
