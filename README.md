@@ -24,11 +24,11 @@
 
 
 ### :man_technologist: About Me :
-- :hammer_and_wrench: I am a Software Engineering student  from Morocco.
+- :hammer_and_wrench: I am a Software Engineering student from Morocco.
 
-- :telescope: I am learning front-end and back-end related technologies.
+- :telescope: I am specializing in Back-end development.
 
-- 💡 I am currently learning Python.
+- 💡 I am currently learning Python. (Updated: June 2023)
 
 <!--- - :seedling: I.
 
