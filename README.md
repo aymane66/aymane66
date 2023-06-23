@@ -16,11 +16,13 @@
   </a>
 </div>
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
 </div>
 
 <hr>
+
 
 
 ### :man_technologist: About Me :
@@ -44,7 +46,10 @@
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymane66&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymane66&show_icons=true&theme=transparent)
+
+
 </div>
 
 
