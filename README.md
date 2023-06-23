@@ -16,6 +16,11 @@
   </a>
 </div>
 
+<div align="center">
+<a href="https://wakatime.com/@1fa019f8-f5fe-42e7-ab97-616db67b263b"><img src="https://wakatime.com/badge/user/1fa019f8-f5fe-42e7-ab97-616db67b263b.svg" alt="Total time coded since Jun 19 2023" /></a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" height="300"/>
@@ -54,7 +59,7 @@
 
 
 
-<div>
+<div align = "center">
   <img src="https://komarev.com/ghpvc/?username=aymane66&style=flat-square&color=blue" alt=""/>
 </div>
 
