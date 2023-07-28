@@ -35,7 +35,7 @@
 
 - :telescope: I am specializing in Back-end development.
 
-- 💡 I am currently learning Python. (Updated: June 2023)
+- 💡 I am currently learning Python & SQL. (Updated: July 2023)
 
 <!--- - :seedling: I.
 
