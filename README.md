@@ -31,7 +31,7 @@
 
 
 ### :man_technologist: About Me :
-- :hammer_and_wrench: I am a Software Engineering student from Morocco.
+- :hammer_and_wrench: I am a Computer Science student from Morocco.
 
 - :telescope: I am specializing in Back-end development.
 
